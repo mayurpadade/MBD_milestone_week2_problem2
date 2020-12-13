@@ -1,0 +1,2 @@
+# MBD_milestone_week2_problem2
+Try understanding the model from the given link and rebuild it from scratch. https://in.mathworks.com/help/simulink/slref/building-a-clutch-lockup-model.html Search ‘Building a Clutch Lock-Up Model’ in documentation Demonstrate following skills 1. Building system using basic Simulink blocks 2. Use callback function 3. Use Data Dictionary 4. Use of Enable block 5. Use of Data Inspector
